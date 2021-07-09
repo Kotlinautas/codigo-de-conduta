@@ -1,8 +1,8 @@
 ## :clipboard: O que é Código de Conduta?
-É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou organizadoras. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
+É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou organizadores. Estamos abertos a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
 
 ## :rocket: Nossa comunidade
-Nossa comunidade chamada [Kotlinautas](https://twitter.com/kotlinautas) se trata de um grupo de pessoas que compartilham conhecimento sobre Kotlin na Twitch, ou escrevendo artigos, gravando vídeos, entre outros e, nessa comunidade, queremos manter um lugar seguro para pessoas independentemente de:
+Nossa comunidade chamada Kotlinautas se trata de um grupo de pessoas que compartilham conhecimento sobre Kotlin na Twitch, ou escrevendo artigos, ou gravando vídeos, entre outros e, nessa comunidade, queremos manter um lugar seguro para todas as pessoas independentemente de:
 
 * Gênero, identidade de gênero ou expressão de gênero;
 * Orientação sexual;  
@@ -15,6 +15,9 @@ Nossa comunidade chamada [Kotlinautas](https://twitter.com/kotlinautas) se trata
 * Escolhas de tecnologias, seja para trabalho e/ou para estudo;
 * Tempo de experiência na área de tecnologia;
 * Nível de conhecimento ou de dificuldade em qualquer assunto da área de tecnologia.
+
+**Missão, visão e objetivos:**
+?
 
 **:warning: Para fazer parte da comunidade Kotlinautas, você deve:**
 * Concordar com este código de conduta.
@@ -31,6 +34,10 @@ Nossa comunidade chamada [Kotlinautas](https://twitter.com/kotlinautas) se trata
 * Nós não permitimos tópicos ofensivos como forma de humor;
 * Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político;
 * Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado ou requisitado, pois garantimos a privacidade dos membros da comunidade.
+
+**:computer: Nossas redes oficiais:**
+* Twitter: [kotlinautas](https://twitter.com/kotlinautas);
+* Discord: [caverna](https://caverna.live/discord).
 
 ### :heavy_check_mark: Boas práticas:
 * Respeite as pessoas, independentemente de quem sejam;
@@ -51,7 +58,7 @@ Nossa comunidade chamada [Kotlinautas](https://twitter.com/kotlinautas) se trata
 * Qualquer comportamento que comprometa a segurança e participação das pessoas.
 * Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, cancele sua participação nesta comunidade.
 
-## :no_entry: O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:
+### :no_entry: O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:
 * Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
 * Você pode receber timeout ou banimento em uma ou mais lives da comunidade de acordo com o seu comportamento ou não cumprimento das regras, independente de ser ou follower, ou viewer, ou ter feito doações, ou envio de bits, ou inscrito de qualquer nível (tier 1, tier 2, tier 3);
 * Caso você queira solicitar a retirada do banimento, haverá uma votação na comunidade, para entender se ela se sente segura com o seu retorno. Em caso negativo, você não poderá mais fazer parte.
