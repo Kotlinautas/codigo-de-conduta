@@ -3,6 +3,8 @@ Nossa comunidade chamada Kotlinautas se trata de um grupo de pessoas que buscam 
 
 ### :computer: Nossas redes oficiais:
 * Twitter: [kotlinautas](https://twitter.com/kotlinautas);
+* Dev.to: [kotlinautas](https://dev.to/kotlinautas);
+* LinkedIn: [kotlinautas](https://www.linkedin.com/company/kotlinautas);
 * Discord: [caverna](https://caverna.live/discord).
 
 ## Missão:
